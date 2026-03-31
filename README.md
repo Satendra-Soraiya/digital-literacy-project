@@ -1,4 +1,3 @@
-# digital-literacy-project
 # Digital Literacy Project
 
 Name: [Satendra Soraiya]  
@@ -9,28 +8,33 @@ Course: Digital Literacy (CSE0001)
 ---
 
 ## Project Overview
-This project focuses on developing digital literacy skills through practical tasks such as creating an infographic, building a digital portfolio, exploring coding and collaboration platforms, understanding email etiquette, and learning about cybercrime and prevention.
+This project demonstrates practical digital literacy skills through five tasks including infographic creation, digital portfolio development, coding and collaboration platforms, professional communication, and cyber awareness.
 
 ---
 
-## Task Details
+## Task Summary
 
 ### Task 1: Infographic
-Created a digital literacy awareness infographic using Canva.
+Created a digital literacy awareness infographic using Canva covering safe internet practices, email etiquette, and professional presence.
 
 ### Task 2: Digital Portfolio
-Created profiles on GitHub, LinkedIn, and Kaggle to build a professional online presence.
+Developed profiles on GitHub, LinkedIn, and Kaggle to build a professional online identity.
 
 ### Task 3: Platforms
-Solved a coding problem on HackerRank and created a Google Form quiz.
+Solved a coding problem on HackerRank and created a Google Form quiz to understand collaboration tools.
 
 ### Task 4: Email Etiquette
-Drafted professional emails and created a social media checklist.
+Drafted professional emails and created a social media responsibility checklist.
 
 ### Task 5: Cyber Awareness
-Created a phishing case study and prevention checklist.
+Created a phishing case study and a prevention checklist for online safety.
 
 ---
 
 ## Google Form Link
 [ https://docs.google.com/forms/d/e/1FAIpQLSe0VOYO8sY-8g7H7EqAZaIJcL9hcwPDGdKrZZdFBxMlvI3hCg/viewform?usp=header ]
+
+---
+
+## Conclusion
+This project helped me understand that digital literacy is not just about using tools, but about using them responsibly, safely, and professionally.
