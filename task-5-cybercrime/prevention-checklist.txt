@@ -1,0 +1,11 @@
+- Always verify the sender’s email address
+- Do not click on unknown or suspicious links
+- Never share OTP, passwords, or personal details
+- Use strong and unique passwords
+- Enable two-factor authentication (2FA)
+- Use only official and trusted websites
+- Check website URLs carefully before entering data
+- Monitor bank transactions regularly
+- Avoid using public Wi-Fi for financial transactions
+- Report cyber fraud at https://cybercrime.gov.in
+- Call helpline number 1930 in case of fraud

@@ -1,0 +1,7 @@
+Phishing is a common type of cybercrime where attackers trick users into sharing sensitive information such as passwords, OTPs, or bank details through fake emails or websites.
+
+For example, a student may receive an email claiming to offer a paid internship opportunity. The email looks professional and includes a link to apply. When the student clicks the link, they are redirected to a fake website that asks for login credentials.
+
+Without verifying the authenticity, the student enters their details. As a result, the attacker gains access to their account and may misuse the information.
+
+Students are often targeted because they actively search for opportunities and may act quickly without verifying sources. The consequences include account hacking, data theft, and financial loss.
